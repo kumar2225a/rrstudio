@@ -100,11 +100,15 @@ body {
     position: absolute;
     top: 60px;
     right: 0;
-    background-color: #111;
+    background-color: #e4e2e2;
     flex-direction: column;
     width: 200px;
-    text-align: right;
     padding: 10px;
+    text-align: start;
+    
+  }
+  .nav-links a{
+    font-weight: bold;
   }
 
   .nav-links.active {
